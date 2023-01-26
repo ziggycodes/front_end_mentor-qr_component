@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:[Outfit]
+    }
+
+body{
+    background-color:hsl(212, 45%, 89%);
+    width:1440px;
+    height:100vh;
+    
+}
+
+img{
+    width:250px;
+    height: 350px;
+}
+main{
+    margin:5% auto ;
+    width:350px;
+    height: 85vh;
+    padding: 25px 50px;
+    border-radius: 20px;
+    background-color:  hsl(0, 0%, 100%);
+
+}
+h1{
+    font-size: 16px;
+    margin:15px;
+}
+p{
+    color:hsl(220, 15%, 55%)
+}
+
